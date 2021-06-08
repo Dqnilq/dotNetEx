@@ -18,7 +18,6 @@ namespace ConsoleApp2
             Console.WriteLine("Потребительский кредит - 1 \n" +
                               "Недвижимость - 2 \n" +
                               "Перекредитование - 3 \n");
-            Console.WriteLine();
         }
 
         public static int Points(Person person)
