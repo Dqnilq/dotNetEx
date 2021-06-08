@@ -14,7 +14,7 @@ namespace ConsoleApp2
             //app.conf key op
             Console.WriteLine(ConfigurationManager.AppSettings["Name"]);
             Console.WriteLine();
-            
+            Console.WriteLine();
             Console.WriteLine("Потребительский кредит - 1 \n" +
                               "Недвижимость - 2 \n" +
                               "Перекредитование - 3 \n");
